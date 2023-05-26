@@ -62,3 +62,4 @@ public class RandomNumberWriterReader {
         }
     }
 }
+//read Bohdan.txt 1 10 5
